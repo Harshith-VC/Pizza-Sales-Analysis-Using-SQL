@@ -1,4 +1,3 @@
-Sure, let's break down each task step by step:
 
 ### Basic:
 
