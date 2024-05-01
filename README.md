@@ -3,7 +3,7 @@ I have made a project based on the analysis of Pizza sales report.
 
 ### Objective :-
 
-**It utilize the advanced data analysis to extract valuable insights from a database, this initiative empowers the business to make informed decision making process.**
+It utilize the advanced data analysis to extract valuable insights from a database, this initiative empowers the business to make informed decision making process.
 
 ### Basic:
 
